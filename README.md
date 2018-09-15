@@ -11,7 +11,7 @@ toolbox of a backend enginner
 - [hstr](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#hstr)
 
 # Browser
-- [Quick Tabs]()
+- [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
 
 ---
 
