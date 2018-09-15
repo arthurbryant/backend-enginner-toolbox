@@ -7,7 +7,9 @@ toolbox of a backend enginner
 - scripts that I used often
 
 # CLI
-- [hstr](#12)
+- [hstr](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#hstr)
+
+---
 
 ## [hstr](https://github.com/dvorka/hstr)
 - Introduction
