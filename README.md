@@ -1,12 +1,6 @@
 # enginner-toolbox
 toolbox of a backend enginner
 
-# Todo
-- create category
-- list tools I used often
-- scripts that I used often
-
-
 # CLI
 - [hstr](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#hstr)
 
@@ -47,3 +41,6 @@ I used this chrome extension every day. Very helpful to let me find my latest us
 ```
 Install the chrome extension and when you want to change tab just press `command + e`
 ```
+
+# Todo
+- scripts that I used often
