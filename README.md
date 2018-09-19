@@ -8,7 +8,7 @@ toolbox of a backend enginner
 - [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
 
 # Mac
-- [ ]()
+- [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
 
 ---
 # CLI
