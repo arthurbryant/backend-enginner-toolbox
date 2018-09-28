@@ -12,7 +12,7 @@ toolbox of a backend enginner
   - [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
 
 - [Database](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#database)
-  - [Sequel Pro]()
+  - [Sequel Pro](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#sequel-pro)
 
 ---
 
