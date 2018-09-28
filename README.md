@@ -1,13 +1,13 @@
 # Introduction
 toolbox of a backend enginner
 
-- [CLI](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#CLI)
+- [CLI](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#cli)
   - [hstr](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#hstr)
 
-- Browser
+- [Browser](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#browser)
   - [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
 
-- Mac
+- [Mac](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#mac)
   - [Alfred](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#alfred)
   - [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
   - [Sequel Pro]()
@@ -89,7 +89,3 @@ Best GUI client for MySQL
 - Usage
 
 Download and Install
-
-
-# Todo
-- scripts that I used often
