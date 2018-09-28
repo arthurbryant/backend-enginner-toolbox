@@ -1,17 +1,16 @@
 # Introduction
 toolbox of a backend enginner
 
-# Toolbox List
-- CLI
+- [CLI](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#CLI)
   - [hstr](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#hstr)
 
 - Browser
   - [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
 
-# Mac
-- [Alfred](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#alfred)
-- [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
-- [Sequel Pro]()
+- Mac
+  - [Alfred](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#alfred)
+  - [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
+  - [Sequel Pro]()
 
 ---
 
@@ -20,10 +19,10 @@ toolbox of a backend enginner
 - Introduction
 
 ```
-Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history. 
+Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 ```
 
-It makes your commandline line life much eaiser.
+It makes your command line life much easier.
 
 - Usage
 
@@ -62,7 +61,7 @@ Perfect replace for default Spotlight search and more.
 - Usage
 
 ```
-command double tap 
+command double tap
 ```
 
 If you pay you can get clipboard
@@ -73,7 +72,7 @@ If you pay you can get clipboard
 ## [⌘英かな](https://ei-kana.appspot.com/)
 - Introduction
 
-Input method switch between Japanese and English via command key. 
+Input method switch between Japanese and English via command key.
 
 - Usage
 
@@ -85,7 +84,7 @@ Input method switch between Japanese and English via command key.
 ## [Sequel Pro](https://sequelpro.com/)
 - Introduction
 
-Best GUI client for MySQL 
+Best GUI client for MySQL
 
 - Usage
 
