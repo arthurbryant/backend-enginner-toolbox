@@ -67,7 +67,7 @@ Free writing assistant.
 
 - Usage
 
-Install, register and that's it.(chrome extension, etc)
+![grammarly](https://user-images.githubusercontent.com/853200/46193690-fec9f280-c339-11e8-9362-3cf49afb5ad5.gif)
 
 # Mac
 ## [Alfred](https://www.alfredapp.com/)
