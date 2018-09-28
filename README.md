@@ -40,7 +40,7 @@ hstr --show-configuration >> ~/.bashrc
 ctrl + r
 ```
 
-![screen shot 2018-09-19 at 9 54 56](https://user-images.githubusercontent.com/853200/45724678-44781400-bbf2-11e8-9cd9-edfb3db14f47.png)
+![hstr](https://user-images.githubusercontent.com/853200/46192110-fb803800-c334-11e8-86fa-db87ac36410a.gif)
 
 
 # Browser
