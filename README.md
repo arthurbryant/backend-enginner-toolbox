@@ -11,6 +11,7 @@ toolbox of a backend enginner
 - [Mac](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#mac)
   - [Alfred](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#alfred)
   - [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
+  - [Giphy Capture](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#giphy-capture)
 
 - [Database](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#database)
   - [Sequel Pro](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#sequel-pro)
@@ -95,6 +96,15 @@ Input method switch between Japanese and English via command key.
 - Install
 - Press Command(left) -> change input method to English; press Command(right) -> change input method to Japanese
 ```
+
+## [Giphy Capture](https://itunes.apple.com/jp/app/giphy-capture-the-gif-maker/id668208984?mt=12)
+- Introduction
+
+tool for creating gif
+
+- Usage
+
+Install and use.
 
 # Database
 ## [Sequel Pro](https://sequelpro.com/)
