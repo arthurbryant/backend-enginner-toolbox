@@ -52,11 +52,12 @@ I used this chrome extension every day. Very helpful to let me find my latest us
 - Usage
 
 ```
-- Install the chrome extension
-- command + e
+- Install chrome extension
+- press command + e
 ```
 
-<img width="426" alt="screen shot 2018-09-19 at 9 57 28" src="https://user-images.githubusercontent.com/853200/45724728-77baa300-bbf2-11e8-8a73-c416ac876f9d.png">
+![quick-tab](https://user-images.githubusercontent.com/853200/46192705-f0c6a280-c336-11e8-977f-ad5d3951e5ed.gif)
+
 
 ## [Grammarly](https://app.grammarly.com/)
 - Introduction
