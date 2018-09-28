@@ -10,8 +10,10 @@ toolbox of a backend enginner
 # Mac
 - [Alfred](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#alfred)
 - [⌘英かな](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#%E8%8B%B1%E3%81%8B%E3%81%AA)
+- [Sequel Pro]()
 
 ---
+
 # CLI
 ## [hstr](https://github.com/dvorka/hstr)
 - Introduction
@@ -70,14 +72,24 @@ If you pay you can get clipboard
 ## [⌘英かな](https://ei-kana.appspot.com/)
 - Introduction
 
-Japanese and English keyboard exchange with command key.
+Input method switch between Japanese and English via command key. 
 
 - Usage
 
 ```
 - Install
-- Press Command(left) -> change keyboard to English; press Command(right) -> change keyboard to Japanese
+- Press Command(left) -> change input method to English; press Command(right) -> change input method to Japanese
 ```
+
+## [Sequel Pro](https://sequelpro.com/)
+- Introduction
+
+Best GUI client for MySQL 
+
+- Usage
+
+Download and Install
+
 
 # Todo
 - scripts that I used often
