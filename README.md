@@ -14,6 +14,8 @@ toolbox of a backend enginner
 - [Database](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#database)
   - [Sequel Pro](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#sequel-pro)
 
+- [Security](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#security)
+  - [LastPass ](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#lastpass)
 ---
 
 # CLI
@@ -92,3 +94,13 @@ Best GUI client for MySQL
 - Usage
 
 Download and Install
+
+# Security 
+## [LastPass](https://www.lastpass.com/)
+- Introduction
+
+Password management cloud service.
+
+- Usage
+
+register, setup your LastPass password and that's it.
