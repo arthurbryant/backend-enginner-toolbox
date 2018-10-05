@@ -73,6 +73,17 @@ Help you to create link. I set shortcut [Command + g] to create a markdown link 
 
 <img width="1662" alt="screen shot 2018-10-05 at 9 37 07" src="https://user-images.githubusercontent.com/853200/46510263-cc148280-c882-11e8-821a-e5abed10a41a.png">
 
+## [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+- Introduction
+
+Format JSON for better view.
+
+- Usage
+
+Install and that's it.
+
+<img width="1103" alt="screen shot 2018-10-05 at 17 15 01" src="https://user-images.githubusercontent.com/853200/46523936-3dbff100-c8c2-11e8-8984-0957db027d49.png">
+
 
 ## [Grammarly](https://app.grammarly.com/)
 - Introduction
