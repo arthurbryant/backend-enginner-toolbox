@@ -82,6 +82,15 @@ Free writing assistant.
 
 ![grammarly](https://user-images.githubusercontent.com/853200/46193690-fec9f280-c339-11e8-9362-3cf49afb5ad5.gif)
 
+## [rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en)
+- Introduction
+
+Automatically translate Japanese to English 
+
+- Usage
+
+![rikaikun](https://user-images.githubusercontent.com/853200/46523667-727f7880-c8c1-11e8-94cf-e52977f08065.gif)
+
 # Mac
 ## [Alfred](https://www.alfredapp.com/)
 - Introduction
