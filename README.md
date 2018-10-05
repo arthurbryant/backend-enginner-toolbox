@@ -59,6 +59,18 @@ I used this chrome extension every day. Very helpful to let me find my latest us
 
 ![quick-tab](https://user-images.githubusercontent.com/853200/46192705-f0c6a280-c336-11e8-977f-ad5d3951e5ed.gif)
 
+## [Create Link \- Chrome Web Store](https://chrome.google.com/webstore/detail/create-link/gcmghdmnkfdbncmnmlkkglmnnhagajbm?hl=en)
+- Introduction
+
+Help you to create link. I set shortcut [Command + g] to create a markdown link on any page. Save me a lot of time.
+
+- Usage
+
+<img width="832" alt="screen shot 2018-10-05 at 9 36 45" src="https://user-images.githubusercontent.com/853200/46510264-cc148280-c882-11e8-85bf-c1f96e639c12.png">
+
+
+<img width="1662" alt="screen shot 2018-10-05 at 9 37 07" src="https://user-images.githubusercontent.com/853200/46510263-cc148280-c882-11e8-821a-e5abed10a41a.png">
+
 
 ## [Grammarly](https://app.grammarly.com/)
 - Introduction
