@@ -7,6 +7,7 @@ toolbox of a backend enginner
 - [Browser](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#browser)
   - [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
   - [Create Link](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#create-link---chrome-web-store)
+  - [JSONView](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#jsonview)
   - [Grammarly](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#grammarly)
   - [rikaikun](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#rikaikun)
 
