@@ -82,7 +82,7 @@ command double tap
 
 If you pay you can get clipboard
 
-![screen shot 2018-09-19 at 11 44 22](https://user-images.githubusercontent.com/853200/45728084-75137a00-bc01-11e8-9329-626bab8cc828.png)
+![alfred](https://user-images.githubusercontent.com/853200/46510064-9d49dc80-c881-11e8-9b77-b678ebe18444.gif)
 
 
 ## [⌘英かな](https://ei-kana.appspot.com/)
