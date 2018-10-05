@@ -8,6 +8,7 @@ toolbox of a backend enginner
   - [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
   - [Create Link](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#create-link---chrome-web-store)
   - [Grammarly](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#grammarly)
+  - [rikaikun](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#rikaikun)
 
 - [Mac](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#mac)
   - [Alfred](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#alfred)
