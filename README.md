@@ -21,6 +21,11 @@ toolbox of a backend enginner
 
 - [Security](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#security)
   - [LastPass ](https://github.com/arthurbryant/backend-enginner-toolbox/blob/master/README.md#lastpass)
+
+- [Editor]()
+  - [Atom]()
+    - [atom-csv-markdown]()
+    
 ---
 
 # CLI
@@ -160,3 +165,16 @@ Password management cloud service.
 - Usage
 
 register, setup your LastPass password and that's it.
+
+
+# Editor
+## [Atom](https://github.com/atom)
+- Introduction
+
+The hackable text editor 
+
+- Usage
+
+Install and use.
+
+### [atom-csv-markdown](https://atom.io/packages/atom-csv-markdown)
