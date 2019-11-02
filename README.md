@@ -3,6 +3,7 @@ toolbox of a backend enginner
 
 - [CLI](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#cli)
   - [hstr](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#hstr)
+  - [htop \- an interactive process viewer for Unix](https://hisham.hm/htop/)
 
 - [Browser](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#browser)
   - [Quick Tabs](https://github.com/arthurbryant/enginner-toolbox/blob/master/README.md#quick-tabs)
